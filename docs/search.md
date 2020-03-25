@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Glossary
 nav_order: 7
 ---
 
