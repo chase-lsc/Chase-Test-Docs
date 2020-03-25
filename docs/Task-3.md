@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task 3 Macro for editing images
-nav_order: 3
+nav_order: 4
 ---
 
 # Task 2
