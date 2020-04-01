@@ -24,7 +24,7 @@ First we will create and name a new Macro.
 
 ![1.1.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.1.4.PNG?raw=true)
 
-|||
+|Icon|Explanation|
 |-----|:------|
 |![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check if the shortcut key you are choosing overwrites any existing shortcut keys.|
 
@@ -32,7 +32,7 @@ First we will create and name a new Macro.
 
 ![1.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.1.5.PNG?raw=true)
 
-|||
+|Icon|Explanation|
 |-----|:------|
 |![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Macros saved in “New Workbook” or “This Workbook” only work in those respective workbooks. Macros saved in “Personal Macro Workbook” can be used in all spreadsheets.|
 
@@ -40,7 +40,7 @@ First we will create and name a new Macro.
 
 ![1.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.1.6.PNG?raw=true)
 
-|||
+|Icon|Explanation|
 |-----|:------|
 |![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: After clicking &lt;OK&gt;>, Excel will now be recording every single action you take and it will not be able to tell idle clicking apart from intended operations. Make sure that you are only taking intended steps inside the Excel window.|
 
