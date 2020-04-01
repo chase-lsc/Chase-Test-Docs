@@ -16,7 +16,7 @@ Engineering, accounting, inventory and other enterprise software with huge datab
 
 * 1.3\. [View] -> [Macro (expand arrow)] -> [Record Macro].
 
-![1.1.3](images/1.1.3.png)
+![1.1.3](images/1.1.3.png?raw=true)
 
 * 1.4\. In the opened up “Record Macro” dialogue box, **type** in the name of your Macro.
 
