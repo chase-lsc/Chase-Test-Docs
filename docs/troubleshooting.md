@@ -14,7 +14,7 @@ Excel's default folder for saving Macros is inside AppData\Roaming\Microsoft\Exc
 
 ![t1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/t1.png?raw=true) 
 
-**Click** &lt;Okay&gt;.
+**Click** &lt;OK&gt;.
 
 ### You do not have the administrator's permissison to access /Roaming
 
