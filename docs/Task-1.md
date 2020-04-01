@@ -49,15 +49,17 @@ First we will create and name a new Macro.
 
 After confirming and creating a Macro, Excel will now be recording your keystrokes. In this task, we will hide unwanted columns and meanwhile Excel will record all perform into the Macro we just created.
 
-1\. **Hold Ctrl** and **Click** the letter buttons of the columns you want to hide. In this case we are hiding columns &lt;A&gt;, &lt;B&gt;, and &lt;D&gt;.
+1\. Reset cursor to starting cell A0 with **Ctrl+Home**.
+
+2\. **Hold Ctrl** and **Click** the letter buttons of the columns you want to hide. In this case we are hiding columns &lt;A&gt;, &lt;B&gt;, and &lt;D&gt;.
 
 ![1.2.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.2.1.PNG?raw=true)
 
-2\. **Right Click** any of the selected letter buttons, here we clicked B.
+3\. **Right Click** any of the selected letter buttons, here we clicked B.
 
 ![1.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.2.2.PNG?raw=true)
 
-3\. **Click** &lt;Hide&gt;.
+4\. **Click** &lt;Hide&gt;.
 
 ## Sort by Field
 
