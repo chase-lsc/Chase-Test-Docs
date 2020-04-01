@@ -59,7 +59,7 @@ After confirming and creating a Macro, Excel will now be recording your keystrok
 
 3\. **Click** &lt;Hide&gt;.
 
-## 3Sort by Field
+## Sort by Field
 
 We will now create a custom sort to sort the table by a field of our choosing.
 
