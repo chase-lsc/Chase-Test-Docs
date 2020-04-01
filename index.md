@@ -52,5 +52,5 @@ These instructions use the following typographic conventions:
 
 |||
 |-----|:------|
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Cautions provide information about steps that might result in unwanted behaviours or unintential deletion of data. They are inside a 1x2 table and accompanied by a triangular “!” icon. It always starts off with a bolded “Caution”.|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Cautions provide information about steps that might result in unwanted behaviours or unintential deletion of data. They are inside a 2x2 table and accompanied by a triangular “!” icon. It always starts off with a bolded “Caution”.|
 
