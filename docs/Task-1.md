@@ -24,22 +24,25 @@ First we will create and name a new Macro.
 
 ![1.1.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.1.4.PNG?raw=true)
 
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check if the shortcut key you are choosing overwrites any existing shortcut keys.|
+|||
 |-----|:------|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check if the shortcut key you are choosing overwrites any existing shortcut keys.|
 
 5\. In the “Record Macro” dialogue box, **type** in the shortcut key you want to bind the Macro to.
 
 ![1.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.1.5.PNG?raw=true)
 
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Macros saved in “New Workbook” or “This Workbook” only work in those respective workbooks. Macros saved in “Personal Macro Workbook” can be used in all spreadsheets.|
+|||
 |-----|:------|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Macros saved in “New Workbook” or “This Workbook” only work in those respective workbooks. Macros saved in “Personal Macro Workbook” can be used in all spreadsheets.|
 
 6\. In the “Record Macro” dialogue box, select the work space to store the Macro in.
 
 ![1.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/1.1.6.PNG?raw=true)
 
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: After clicking &lt;OK&gt;>, Excel will now be recording every single action you take and it will not be able to tell idle clicking apart from intended operations. Make sure that you are only taking intended steps inside the Excel window.|
+|||
 |-----|:------|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: After clicking &lt;OK&gt;>, Excel will now be recording every single action you take and it will not be able to tell idle clicking apart from intended operations. Make sure that you are only taking intended steps inside the Excel window.|
 
 7\. Click <OK> to create a new Macro.
   
