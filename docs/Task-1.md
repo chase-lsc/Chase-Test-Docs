@@ -12,7 +12,7 @@ Engineering, accounting, inventory and other enterprise software with huge datab
 
 First we will create and name a new Macro.
 
-1\. **Download** [Sample Data.csv](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/sampleData/Sample_Data.csv), as linked here.
+1\. **Download** [Sample Data.csv](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/sampleData/Sample%20Data.csv), as linked here.
 
 2\. **Open** *"Sample Data.csv"* with Excel.
 
