@@ -29,31 +29,26 @@ The worksheet with a blank block is hare to be manage, organize, and calculate d
 
 
 1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A0.
+
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.1.png?raw=true)
 
+
 2\. Click **Home menu** to select [Find & Search] -> [go to special].
+
+
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.2.png?raw=true)
 
+
 3\. Click the blanks then press Ok.
+
+
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.3.png?raw=true)
+
 
 4\. Click **Home menu** to select [delect] ->  [delect cells] -> [shift cell left] then press Ok.
 
 5\. Press stop recording, save the worksheet. Open the macro file and test it.
 
-
-
-
-In this section, you will be able to create an x using y.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Heading 1
 
