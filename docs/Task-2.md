@@ -12,28 +12,53 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  1\. Press **CTROL+Home**, then **CTROL+A** to place curser at the A0 and select whole columns.
  
+ ![2.1.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
+ 
+ 
  2\. Click **DATA menu** to select **TEXT to Columns**
+ 
+ ![2.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.2.png?raw=true)
+ 
  
  3\. In the dialogue box, select the **Delimited** then press NEXT
  
- 4\. In the second dialogue box, unclick the tab then click the **space** then press next
+ ![2.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.3.png?raw=true)
  
- 5\. In the last diaglogue box, click the **Text** then finish
  
- 6\. Hold **shift+right arrow twice** to select all columns
+ 4\. In the second dialogue box, unclick the tab then click the **space** then press next.
+ 
+ ![2.1.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.4.png?raw=true)
+ 
+ 
+ 5\. In the last diaglogue box, click the **Text** then finish.
+ 
+ ![2.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.5.png?raw=true)
+ 
+ 
+ 6\. Hold **shift+right arrow twice** to select all columns.
+ 
+ ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
+ 
  
  7\. Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
     In the custom sort dialogue, click **Add level twice** then choose **Column B** for sort by section and **Column A** for Then by section then press OK
     
+    ![2.1.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.7.png?raw=true)
+    
  8\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] -> [type 15] then press OK.   
  
- 9\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
+ ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
  
- 10\ .Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the number of the address.
+ 9\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
+     Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the  number of the address.
+ 
+ ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
+ 
+ 
  
  11\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
- ## adjust for two columns into one
+ ## Adjust for two columns into one
  
  What if you find the half of the list have city name and rest of the list does not? This macro will create new columns of each list and rejoin them in the original column.
  
@@ -44,17 +69,6 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  3.\ Press **Shift+Right arrow
  
  
-{: .no_toc }
-
-
-In this section, you will be able to create an x using y.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
