@@ -10,6 +10,20 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 
  ## Split address from one column into three
  
+ 1\.Press **CTROL+Home**, then **CTROL+A** to place curser at the A0 and select whole columns.
+ 
+ 2\.Click **DATA menu** to select **TEXT to Columns**
+ 
+ 3\.In the dialogue box, select the **Delimited** then press next
+ 
+ 4\.In the second dialogue box, unclick the tab then click the **space** then press next
+ 
+ 5\.In the last diaglogue box, click the **Text** then finish
+ 
+ 6.\Hold **shift+right arrow twice** to select all columns
+ 
+ 7.\Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
+    In the custom sort dialogue, click **Add level twice**  
  
 {: .no_toc }
 
