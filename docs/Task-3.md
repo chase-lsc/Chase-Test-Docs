@@ -47,6 +47,8 @@ The worksheet with a blank block is hare to be manage, organize, and calculate d
 
 4\. Click **Home menu** to select [delect] ->  [delect cells] -> [shift cell left] then press Ok.
 
+![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.4.png?raw=true)
+
 5\. Press stop recording, save the worksheet. Open the macro file and test it.
 
 
