@@ -10,28 +10,38 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 
  ## Split address from one column into three
  
- 1\.Press **CTROL+Home**, then **CTROL+A** to place curser at the A0 and select whole columns.
+ 1\. Press **CTROL+Home**, then **CTROL+A** to place curser at the A0 and select whole columns.
  
- 2\.Click **DATA menu** to select **TEXT to Columns**
+ 2\. Click **DATA menu** to select **TEXT to Columns**
  
- 3\.In the dialogue box, select the **Delimited** then press next
+ 3\. In the dialogue box, select the **Delimited** then press NEXT
  
- 4\.In the second dialogue box, unclick the tab then click the **space** then press next
+ 4\. In the second dialogue box, unclick the tab then click the **space** then press next
  
- 5\.In the last diaglogue box, click the **Text** then finish
+ 5\. In the last diaglogue box, click the **Text** then finish
  
- 6.\Hold **shift+right arrow twice** to select all columns
+ 6\. Hold **shift+right arrow twice** to select all columns
  
- 7.\Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
+ 7\. Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
     In the custom sort dialogue, click **Add level twice** then choose **Column B** for sort by section and **Column A** for Then by section then press OK
     
- 8.\Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] -> [type 15] then press OK.   
+ 8\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] -> [type 15] then press OK.   
  
- 9.\Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
+ 9\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
  
- 10.\Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the number of the address.
+ 10\ .Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the number of the address.
  
- 11.\Press stop recording, save the worksheet. Open the macro file and **test** it.
+ 11\. Press stop recording, save the worksheet. Open the macro file and **test** it.
+ 
+ ## adjust for two columns into one
+ 
+ What if you find the half of the list have city name and rest of the list does not? This macro will create new columns of each list and rejoin them in the original column.
+ 
+ 1\.  Press **CTROL+HOME** then **CONTROL+A** to place the cursor at A0. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
+ 
+ 2\. Press **CTROL+HOME**, then **CONTROL+A**. Click **Home menu** to select [SORT &Filter] -> [column C] // need to add or fix 
+ 
+ 3.\ Press **Shift+Right arrow
  
  
 {: .no_toc }
