@@ -14,7 +14,11 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 2\. Hold **Shift+RIght Arrow twice** then Click **HOME menu** to select **Merge & center** to merge the block.
 
+![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.2.png?raw=true)
+
 3\. Press **CTROL+HOME** then, type {Company:[company name]} -> {Job Title:[Your position]} -> {Name:[Your name]}.
+
+![3.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.3.png?raw=true)
 
 4\. Press stop recording, save the worksheet. Open the macro file and test it.
 
