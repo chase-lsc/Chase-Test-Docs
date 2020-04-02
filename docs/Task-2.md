@@ -6,7 +6,7 @@ nav_order: 3
 
 # Task 2 - Split address from one column into three and adjust for two columns into one 
 
-Long lists are commonly found in one column, which has a lack of readability. This macro does take one second with calculating the number of the address, extension size of the block and divide one column in three columns. 
+Long lists are commonly found in one column, which has a lack of readability. This macro does take one second with calculating the number of the address, extension size of the block and divide one column in three columns to increase the visibility. 
 
  ## Split address from one column into three
  
@@ -23,7 +23,16 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  6.\Hold **shift+right arrow twice** to select all columns
  
  7.\Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
-    In the custom sort dialogue, click **Add level twice**  
+    In the custom sort dialogue, click **Add level twice** then choose **Column B** for sort by section and **Column A** for Then by section then press OK
+    
+ 8.\Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] -> [type 15] then press OK.   
+ 
+ 9.\Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
+ 
+ 10.\Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the number of the address.
+ 
+ 11.\Press stop recording, save the worksheet. Open the macro file and **test** it.
+ 
  
 {: .no_toc }
 
