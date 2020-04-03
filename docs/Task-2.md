@@ -64,7 +64,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  1\.  Press **CTROL+HOME** then **CONTROL+A** to place the cursor at A0. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
  
- ![2.2.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
+ ![2.2.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.1.png?raw=true)
  
  
  2\. Press **CTROL+HOME**, then **CONTROL+A**. Click **Home menu** to select [SORT &Filter] -> [column C] // need to add or fix 
@@ -72,12 +72,12 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  3.\ Press **End** to move bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
  
- ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
+ ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
  
  4.\ Press **End** to move top of the **D** column, then type **=A1&" "&B1+Enter**
  
  
- ![2.2.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
+ ![2.2.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.3.png?raw=true)
  
  
  5.\ Press **CTROL+C**, then press **End** ->[Down arrow]->[Up arrow]->[CTROL+V]->[CTROL+C]. Select **Home menu** to select [paste]
@@ -85,7 +85,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ->[Paste Value]
  
  
- ![2.2.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
+ ![2.2.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.4.png?raw=true)
  
  6.\ Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
  
