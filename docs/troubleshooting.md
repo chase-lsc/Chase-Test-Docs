@@ -10,7 +10,7 @@ nav_order: 6
 
 ### AppData is hidden
 
-Excel's default folder for saving Macros is inside AppData\Roaming\Microsoft\Excel\XLSTART, a folder hidden by the system by default. Open up a File Explorer and navigate to [File]; -> [Options] -> [View] -> [Hidden files and folders] -> **Check** &ltShow hidden files, folders and drives&gt;.
+Excel's default folder for saving Macros is inside AppData\Roaming\Microsoft\Excel\XLSTART, a folder hidden by the system by default. Open up a File Explorer and navigate to [File] -> [Options] -> [View] -> [Hidden files and folders] -> **Check** &lt;Show hidden files, folders and drives&gt;.
 
 ![t1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/t1.png?raw=true) 
 
