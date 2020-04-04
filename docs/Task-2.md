@@ -50,6 +50,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  8\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
      Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the        number of the address.
  
+ 
  ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
  
  
@@ -58,9 +59,13 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ## Adjust for two columns into one
  
+ 
  What if you find the half of the list have city name and rest of the list does not? This macro will create new columns of each list and rejoin them in the original column.
  
+ 
+ 
  1\.  Press **CTROL+HOME** then **CONTROL+A** to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
+ 
  
  ![2.2.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.1.png?raw=true)
  
@@ -68,28 +73,34 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  2\. Press **CTROL+HOME**, then **CONTROL+A**. Click **Home menu** to select [SORT &Filter] -> [column C] // need to add or fix 
  
  
- 3.\ Press **End** to move bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
+ 3\. Press **End** to move bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
+ 
  
  ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
  
- 4.\ Press **End** to move top of the **D** column, then type **=A1&" "&B1+Enter**
+ 
+ 4\. Press **End** to move top of the **D** column, then type **=A1&" "&B1+Enter**
  
  
  ![2.2.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.3.png?raw=true)
  
  
- 5.\ Press **CTROL+C**, then press **End** ->[Down arrow]->[Up arrow]->[CTROL+V]->[CTROL+C]. Select **Home menu** to select [paste]
+ 
+ 5\. Press **CTROL+C**, then press **End** ->[Down arrow]->[Up arrow]->[CTROL+V]->[CTROL+C]. Select **Home menu** to select [paste]
  
  ->[Paste Value]
  
  
  ![2.2.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.7.png?raw=true)
  
- 6.\ Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
+ 6\. Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
  
  
- 7.\ Press **Right arrow three times** then, [End]->[Down arrow+Shift]->[Delete]->[Left arrow twice]-> 
+ 7\. Press **Right arrow three times** then, [End]->[Down arrow+Shift]->[Delete]->[Left arrow twice]-> 
  
  [End]->[Down arrow+Shift] ->[Delete]
-     
+ 
+ ![2.2.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.9.png?raw=true)
+ 
+ 
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
