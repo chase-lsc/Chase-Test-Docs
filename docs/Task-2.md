@@ -35,34 +35,32 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.5.png?raw=true)
  
  
- 6\. Hold **shift+right arrow twice** to select all columns.
+ 6\. Hold **shift+right arrow twice** to select all columns. Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
+     In the custom sort dialogue, click **Add level twice** then choose **Column B** for sort by section and **Column A** for Then by        section then press OK
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
- 
- 
- 7\. Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
-    In the custom sort dialogue, click **Add level twice** then choose **Column B** for sort by section and **Column A** for Then by section then press OK
     
-    ![2.1.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.7.png?raw=true)
     
- 8\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] -> [type 15] then press OK.   
+ 7\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] 
+     
+     -> [type 15] then press OK.   
  
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
  
- 9\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
-     Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the  number of the address.
+ 8\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
+     Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the        number of the address.
  
  ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
  
  
+ 9\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
- 11\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
  ## Adjust for two columns into one
  
  What if you find the half of the list have city name and rest of the list does not? This macro will create new columns of each list and rejoin them in the original column.
  
- 1\.  Press **CTROL+HOME** then **CONTROL+A** to place the cursor at A0. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
+ 1\.  Press **CTROL+HOME** then **CONTROL+A** to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
  
  ![2.2.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.1.png?raw=true)
  
@@ -85,13 +83,13 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ->[Paste Value]
  
  
- ![2.2.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.4.png?raw=true)
+ ![2.2.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.7.png?raw=true)
  
  6.\ Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
  
  
- 7.\ Press **Right arrow three times** then, [End]->[Down arrow+Shift]->[Delete]->[Left arrow twice]->[End]->[Down arrow+Shift]
+ 7.\ Press **Right arrow three times** then, [End]->[Down arrow+Shift]->[Delete]->[Left arrow twice]-> 
  
- ->[Delete]
+ [End]->[Down arrow+Shift] ->[Delete]
      
-
+ 8\. Press stop recording, save the worksheet. Open the macro file and test it.
