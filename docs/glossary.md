@@ -11,3 +11,8 @@ nav_order: 5
 **Visual Basic for Applications (VBA)** – a Visual Basic implementation developed by Microsoft and intended for Microsoft Office applications. VBA is used to create Macros or small programs that perform tasks within a Microsoft Office application.
 
 **Macro** – a VBA-based feature of Excel that can record and play back a user’s Excel steps. It can be created, edited and run by a user as many times as needed.
+
+**Delimited format** - with a character such as a comma (,). This character is called the field delimiter.
+
+**Dialogue box** - also called a dialog. It commonly find in Window operating system. 
+It asks the users to choose the option
