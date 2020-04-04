@@ -10,13 +10,13 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 ## Repetitive Text
 
-1\. Press **CTROL+HOME** then, **CTROL+A** to place the coursor at the left top.
+1\. Press **CTROL+HOME** then, **CTROL+A** to place the coursor at A1.
 
 2\. Hold **Shift+RIght Arrow twice** then Click **HOME menu** to select **Merge & center** to merge the block.
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.2.png?raw=true)
 
-3\. Press **CTROL+HOME** then, type {Company:[company name]} -> {Job Title:[Your position]} -> {Name:[Your name]}.
+3\. Press **CTROL+HOME** then, type {Company:[company name]} ->[Tab]-> type {Job Title:[Your position]} -> [Tab] -> type {Name:[Your name]}.
 
 ![3.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.3.png?raw=true)
 
@@ -28,7 +28,7 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 The worksheet with a blank block is hare to be manage, organize, and calculate data adequately. This macro will remove whole unnecessary blank blocks.
 
 
-1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A0.
+1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A1.
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.1.png?raw=true)
 
@@ -51,11 +51,4 @@ The worksheet with a blank block is hare to be manage, organize, and calculate d
 
 5\. Press stop recording, save the worksheet. Open the macro file and test it.
 
-
-## Heading 1
-
-random text
-
-## Heading 2
-more random text
 
