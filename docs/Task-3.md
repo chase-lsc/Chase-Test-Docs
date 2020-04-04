@@ -12,7 +12,7 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 1\. Press **CTROL+HOME** then, **CTROL+A** to place the coursor at A1.
 
-2\. Hold **Shift+RIght Arrow twice** then Click **HOME menu** to select **Merge & center** to merge the block.
+2\. Hold **Shift+RIght Arrow twice** then, Click **HOME menu** to select **Merge & center** to merge the block.
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.2.png?raw=true)
 
@@ -41,11 +41,11 @@ The worksheet with a blank block is hare to be manage, organize, and calculate d
 
 3\. Click the blanks then press Ok.
 
-
-![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.3.png?raw=true)
-
+![3.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.6.png?raw=true)
 
 4\. Click **Home menu** to select [delect] ->  [delect cells] -> [shift cell left] then press Ok.
+
+![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.3.png?raw=true)
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.4.png?raw=true)
 
