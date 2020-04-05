@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 2 Macro for removing blanks and repetitive text
+title: Macro for removing blanks and repetitive text
 nav_order: 3
 ---
 
