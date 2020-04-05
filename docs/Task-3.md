@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 3 Macro for editing images
+title: Macro for Editing Images
 nav_order: 4
 ---
 
