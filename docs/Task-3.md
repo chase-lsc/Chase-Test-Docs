@@ -4,7 +4,7 @@ title: Task 3 Macro for editing images
 nav_order: 4
 ---
 
-# Task 3 - Create Macro for Remove Blank Columns and Repetitive Text
+# Create Macro for Remove Blank Columns and Repetitive Text
 
 Organizing, formatting, and sorting data in worksheet with Excel, the same pattern of sentences and format are used frequently. This macro to add your compay infromation with curren your position and name at the left top of the worksheet automatically.
 
