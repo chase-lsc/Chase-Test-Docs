@@ -79,11 +79,12 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  3\. Press **End** to move bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
  
  
- ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
+ 
  
  
  4\. Press **End** to move top of the **D** column, then type **=A1&" "&B1+Enter**
  
+ ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
  
  ![2.2.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.3.png?raw=true)
  
@@ -108,3 +109,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
+ 
+ ## Completion Checklist
+This is the end of this section. Now, you are able to split the one column to three individual columns.
+In addition, you can combine the splitted columns.
