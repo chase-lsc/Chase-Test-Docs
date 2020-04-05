@@ -6,7 +6,10 @@ nav_order: 3
 
 # Macro for Splitting and Combining Text Columns
 
+
 Long lists are commonly found in one column, which has a lack of readability. This macro does take one second with calculating the number of the address, extension size of the block and divide one column in three columns to increase the visibility. 
+
+
 
  ## Split address from one column into three
  
@@ -45,6 +48,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
    -> [type 15] then press OK.   
  
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
+ 
  
  8\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
      Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the        number of the address.
@@ -91,6 +95,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  ![2.2.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.7.png?raw=true)
+ 
  
  6\. Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
  
