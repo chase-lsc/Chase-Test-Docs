@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Macro for Removing Blanks and Repetitive Text
+title: Macro for Splitting and Combining Text Columns
 nav_order: 3
 ---
 
-# Split address from one column into three and adjust for two columns into one 
+# Macro for Splitting and Combining Text Columns
 
 Long lists are commonly found in one column, which has a lack of readability. This macro does take one second with calculating the number of the address, extension size of the block and divide one column in three columns to increase the visibility. 
 
