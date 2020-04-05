@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Macro for Editing Images
+title: Macro for Removing Blanks and Repetitive Texts
 nav_order: 4
 ---
 
-# Create Macro for Remove Blank Columns and Repetitive Text
+# Macro for Removing Blanks and Repetitive Texts
 
 Organizing, formatting, and sorting data in worksheet with Excel, the same pattern of sentences and format are used frequently. This macro to add your compay infromation with curren your position and name at the left top of the worksheet automatically.
 
