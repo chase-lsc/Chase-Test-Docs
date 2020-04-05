@@ -15,4 +15,4 @@ nav_order: 5
 **Delimited format** - with a character such as a comma (,). This character is called the field delimiter.
 
 **Dialogue box** - also called a dialog. It commonly find in Window operating system. 
-It asks the users to choose the option
+It asks the users to choose the option.
