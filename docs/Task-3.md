@@ -25,7 +25,7 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 ## Remove Blank Columns 
 
-The worksheet with a blank block is hare to be manage, organize, and calculate data adequately. This macro will remove whole unnecessary blank blocks.
+The worksheet with a blank block is hare to manage, organize, and calculate data adequately. This macro will remove whole unnecessary blank blocks.
 
 
 1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A1.
@@ -42,6 +42,7 @@ The worksheet with a blank block is hare to be manage, organize, and calculate d
 3\. Click the blanks then press Ok.
 
 ![3.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.6.png?raw=true)
+
 
 4\. Click **Home menu** to select [delect] ->  [delect cells] -> [shift cell left] then press Ok.
 
