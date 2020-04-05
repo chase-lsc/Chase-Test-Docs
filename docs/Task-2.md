@@ -10,7 +10,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 
  ## Split address from one column into three
  
- 1\. Press **CTROL+Home**, then **CTROL+A** to place curser at the A0 and select whole columns.
+ 1\. Press **CTROL+Home**, then **CTROL+A** to place curser at the A1 and select whole columns.
  
  ![2.1.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
  
@@ -25,12 +25,12 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.3.png?raw=true)
  
  
- 4\. In the second dialogue box, unclick the tab then click the **space** then press next.
+ 4\. In the second dialogue box, [Unclick the tab] -> [Click the **space**] -> [Press next].
  
  ![2.1.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.4.png?raw=true)
  
  
- 5\. In the last diaglogue box, click the **Text** then finish.
+ 5\. In the last diaglogue box, [Change general to **Text**] -> [Press finish].
  
  ![2.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.5.png?raw=true)
  
@@ -42,8 +42,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
     
     
  7\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] 
-     
-     -> [type 15] then press OK.   
+   -> [type 15] then press OK.   
  
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
  
@@ -60,7 +59,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ## Adjust for two columns into one
  
  
- What if you find the half of the list have city name and rest of the list does not? This macro will create new columns of each list and rejoin them in the original column.
+ What if you find the half of the list have city name and rest of the list does not? This macro will create new columns of each list and  rejoin them in the original column.
  
  
  
