@@ -4,7 +4,7 @@ title: Macro for Splitting and Combining Text Columns
 nav_order: 3
 ---
 
- # Macro for Splitting and Combining Text Columns
+# Macro for Splitting and Combining Text Columns
 
 
 Long lists are commonly found in one column, which has a lack of readability. This macro does take one second by calculating the number of the address, extension size of the block and divide one column in three columns to increase the visibility. 
