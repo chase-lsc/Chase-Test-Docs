@@ -103,7 +103,6 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  3\. Press **End** to move the bottom of the column, then press **Right arrow thrice+Down arrow once** and type **STOP**
  
- <br />
  
  4\. Press [End]->[Up arrow] to move to the **D1**, then type **=A1&" "&B1+Enter**
  
@@ -125,7 +124,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.2.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.7.png?raw=true)
  
- 
+ </br>
  
  6\. Press [CTROL+Home] -> [End] -> [Down arrow] -> [CTROL+V]
  
@@ -140,6 +139,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
  
+ <br />
  
 ## Completion Checklist
 
