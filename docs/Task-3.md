@@ -27,6 +27,9 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 The worksheet with a blank block is hard to be managed, organized, and calculated with data adequately. This macro will remove whole unnecessary blank blocks which cause making errores.
 
+|Icon|Explanation|
+|-----|:------|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**:If you are not able to select whole blocks, please press the triangle part.|
 
 1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A1.
 
