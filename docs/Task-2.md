@@ -70,7 +70,6 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  9\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
  
- 
 ## Adjust for two columns into one
  
  
