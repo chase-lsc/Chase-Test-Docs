@@ -7,7 +7,6 @@ nav_order: 4
 # Macro for Removing Blanks and Repetitive Texts
 
 Organizing, formatting, and sorting data in worksheet with Excel, the same pattern of sentences and format are used frequently. 
-
 This macro to add your company information with current your position and name at the left top of the worksheet automatically.
 
 ## Repetitive Text
@@ -27,9 +26,7 @@ This macro to add your company information with current your position and name a
 
 ## Remove Blank Columns 
 
-The worksheet with a blank block is hard to be managed, organized, and calculated with data adequately. 
-
-This macro will remove whole unnecessary blank blocks, which cause making errors.
+The worksheet with a blank block is hard to be managed, organized, and calculated with data adequately. This macro will remove whole unnecessary blank blocks, which cause making errors.
 
 
 |Icon|Explanation|
@@ -64,8 +61,6 @@ This macro will remove whole unnecessary blank blocks, which cause making errors
 5\. Press stop recording, save the worksheet. Open the macro file and test it.
 
 
-Completion Checklist
+## Completion Checklist
 
-This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets.
-
-Also, you are able to create the macro for managing the blank blocks not to cause the problems.
+This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets. Also, you are able to create the macro for managing the blank blocks not to cause the problems.
