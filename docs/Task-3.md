@@ -11,7 +11,7 @@ This macro to add your company information with current your position and name a
 
 ## Repetitive Text
 
-1\. Press [CTROL+HOME -> [CTROL+A] to place the cursor at A1.
+1\. Press [CTROL+HOME] -> [CTROL+A] to place the cursor at A1.
 
 2\. Hold **Shift+RIght Arrow twice** then, Click [HOME menu] to select **Merge & center** to merge the blocks.
 
