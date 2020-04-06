@@ -10,7 +10,6 @@ nav_order: 3
 
 Long lists are commonly found in one column, which has a lack of readability. This macro does take one second calculating the number of the address, extension size of the block and dividing one column into three columns to increase the visibility. 
 
-<br />
 
 ## Split address from one column into three columns
  
@@ -75,10 +74,10 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  9\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
+ <br />
  
 ## Adjust for two columns into one column
  
- <br />
  
  What if you find that the half of the list have city name and rest of the list does not? This macro will create new individual columns and rejoin them in the original column.
  
@@ -99,7 +98,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
  
  
- 
+ <br />
  
  3\. Press **End** to move the bottom of the column, then press **Right arrow thrice+Down arrow once** and type **STOP**
  
@@ -124,7 +123,8 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.2.7](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.7.png?raw=true)
  
- </br>
+ 
+ <br />
  
  6\. Press [CTROL+Home] -> [End] -> [Down arrow] -> [CTROL+V]
  
@@ -135,7 +135,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.2.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.9.png?raw=true)
  
- 
+ <br />
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
  
