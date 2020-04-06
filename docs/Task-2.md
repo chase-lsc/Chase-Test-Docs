@@ -43,7 +43,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  
- 6\. Hold **shift+right arrow twice** to select all columns. Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
+ 6\. Hold **shift+right arrow twice** to select all columns. Click [Home menu] -> [Click Sort &Filter] ->[Custom sort].
  
  In the custom sort dialogue, click **Add level twice** then choose **Column B** for [**sort by**] and **Column A** 
  
@@ -53,9 +53,8 @@ Long lists are commonly found in one column, which has a lack of readability. Th
     
     
     
- 7\. Press CTROL+HOME then hold **shift+right arrow twice**. Click **Home menu** to select [Format] -> [Column Width]
- 
-   -> [type 15] then press OK.   
+ 7\. Press CTROL+HOME then hold **shift+right arrow twice**. Click [Home menu] to select [Format] -> [Column Width]
+  -> [type 15] then press OK.   
  
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
  
