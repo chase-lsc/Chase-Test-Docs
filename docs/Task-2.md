@@ -106,7 +106,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  7\. Press **Right arrow three times** then, [End]->[Shift+Down arrow]->[Delete]->[Left arrow twice]-> [End]->
  [Shift+Down arrow] ->[Delete]
  
- ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
+ ![2.2.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.9.png?raw=true)
  
  
  
