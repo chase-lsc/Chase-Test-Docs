@@ -8,7 +8,7 @@ nav_order: 3
 # Macro for Splitting and Combining Text Columns
 
 
-Long lists are commonly found in one column, which has a lack of readability. This macro does take one second by calculating the number of the address, extension size of the block and divide one column in three columns to increase the visibility. 
+Long lists are commonly found in one column, which has a lack of readability. This macro does take one second calculating the number of the address, extension size of the block and dividing one column into three columns to increase the visibility. 
 
 
 
@@ -136,5 +136,5 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 ## Completion Checklist
 
 This is the end of this section. Now, you are able to split the one column to three individual columns.
-Besides, you can combine the split columns.
+Besides, you can combine the split columns. These functions will help you reduce your time-consuming.
 
