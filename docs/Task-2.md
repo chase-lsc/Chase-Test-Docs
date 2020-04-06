@@ -24,13 +24,13 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.2.png?raw=true)
  
- 
+ </br>
  
  3\. In the dialogue box, select the [**Delimited**] -> [Press NEXT].
  
  ![2.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.3.png?raw=true)
  
- 
+ </br>
  
  4\. In the second dialogue box, [Unclick the tab] -> [Click the **space**] -> [Press next].
  
@@ -110,7 +110,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 |-----|:------|
 |![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range. If only one block is selected (D1), reselect whole **D** column except **Stop** block|
  
- 
+ </br>
  5\. Press **CTROL+C**, then press [End] -> [Down arrow]-> [Up arrow] -> [CTROL+V] -> [CTROL+C]. Select [Home menu] -> [paste]
  ->[Paste Value]
  
@@ -132,7 +132,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
  
-</br>
+ </br>
 ## Completion Checklist
 
 This is the end of this section. Now, you are able to split the one column to three individual columns.
