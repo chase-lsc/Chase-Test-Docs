@@ -7,7 +7,9 @@ nav_order: 3
 # Macro for Splitting and Combining Text Columns
 
 
-Long lists are commonly found in one column, which has a lack of readability. This macro does take one second by calculating the number of the address, extension size of the block and divide one column in three columns to increase the visibility. 
+Long lists are commonly found in one column, which has a lack of readability. This macro does take one second by calculating the number
+
+of the address, extension size of the block and divide one column in three columns to increase the visibility. 
 
 
 
@@ -102,7 +104,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  
- 3\. Press **End** to move the bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
+ 3\. Press **End** to move the bottom of the column, then press **Right arrow thrice+Down arrow once** and type **STOP**
  
  
  4\. Press [**End**]->[**Up arrow**] to move to the **D1**, then type **=A1&" "&B1+Enter**
@@ -114,7 +116,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  |Icon|Explanation|
 |-----|:------|
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range. If only one block is selected, reselect whole **D** column except **Stop** black|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range. If only one block is selected, reselect whole **D** column except **Stop** block|
  
  
  
@@ -131,6 +133,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  7\. Press **Right arrow three times** then, [End]->[Shift+Down arrow]->[Delete]->[Left arrow twice]-> [End]->
+ 
  [Shift+Down arrow] ->[Delete]
  
  
@@ -143,5 +146,6 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 
 ## Completion Checklist
 This is the end of this section. Now, you are able to split the one column to three individual columns.
+
 Besides, you can combine the split columns.
 
