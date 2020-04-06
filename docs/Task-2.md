@@ -14,7 +14,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 
 ## Split address from one column into three columns
  
- 1\. Press [CTROL+Home] -> [CTROL+A] to place the curser at the A1 and select whole columns.
+ 1\. Press [CTROL+Home] -> [CTROL+A] to place the cursor at the A1 and select whole columns.
  
  ![2.1.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
  
