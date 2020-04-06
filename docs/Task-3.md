@@ -29,7 +29,7 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 |Icon|Explanation|
 |-----|:------|
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**:If you are not able to select whole blocks, please press the triangle part.|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**:If you are not able to select whole blocks with **CTROL+A**, please press the triangle part which is placed above the row number(1) and left side of the column A.|
 
 1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A1.
 
