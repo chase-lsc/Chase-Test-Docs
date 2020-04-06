@@ -78,14 +78,19 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
  
  
+ 
  3\. Press **End** to move bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
  
+ 
  4\. Press [**End**]->[**Up arrow**] to move to the **D1**, then type **=A1&" "&B1+Enter**
+ 
  
  ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
  
  
- 
+ |Icon|Explanation|
+|-----|:------|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range.If only one block is selected, reselect whole **D** column except **Stop** black|
  
  5\. Press **CTROL+C**, then press **End** ->[Down arrow]->[Up arrow]->[CTROL+V]->[CTROL+C]. Select **Home menu** to select [paste]
  
@@ -98,11 +103,11 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  6\. Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
  
  
- 7\. Press **Right arrow three times** then, [End]->[Down arrow+Shift]->[Delete]->[Left arrow twice]-> 
- 
- [End]->[Down arrow+Shift] ->[Delete]
+ 7\. Press **Right arrow three times** then, [End]->[Shift+Down arrow]->[Delete]->[Left arrow twice]-> [End]->
+ [Shift+Down arrow] ->[Delete]
  
  ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
+ 
  
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
