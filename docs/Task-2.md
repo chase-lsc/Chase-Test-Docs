@@ -50,8 +50,8 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
  
  
- 8\. Press **CTROL+HOME** then click **Home menu** to select [Insert] -> [Insert Sheet] to add one more row.
-     Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **down arrow+shift** to calcuate the        number of the address.
+ 8\. Press [**CTROL+HOME**] -> [**Home menu**] to select [Insert] -> [Insert Sheet] to add one more row.
+     Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **Shift+Down arrow** to calcuate the number of the address.
  
  
  ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
@@ -67,22 +67,20 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  
- 1\.  Press **CTROL+HOME** then **CONTROL+A** to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
+ 1\.  Press [**CTROL+HOME**] -> [**CONTROL+A**] to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. In the dialogue box, choose **DELIMITED** then press NEXT. In the second dialogue box, choose space then Next. In the last dialogue box, unclick the **tab** then click the **space** then press Finish.
  
  
  ![2.2.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.1.png?raw=true)
  
  
- 2\. Press **CTROL+HOME**, then **CONTROL+A**. Click **Home menu** to select [SORT &Filter] -> [column C] // need to add or fix 
+ 2\. Press [**CTROL+HOME**] -> [**CONTROL+A**]. Click **Home menu** to select [SORT &Filter] -> [column C]
+ 
+ ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
  
  
  3\. Press **End** to move bottom of the column, then press **Right arrow twice+Down arrow once** and type **STOP**
  
- 
- 
- 
- 
- 4\. Press **End** to move top of the **D** column, then type **=A1&" "&B1+Enter**
+ 4\. Press [**End**]->[**Up arrow**] to move to the **D1**, then type **=A1&" "&B1+Enter**
  
  ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
  
