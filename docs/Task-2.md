@@ -13,7 +13,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 
 ## Split address from one column into three columns
  
- <br />
+
  
  1\. Press [CTROL+Home] -> [CTROL+A] to place the cursor at the A1 and select whole columns.
  
