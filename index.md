@@ -20,8 +20,8 @@ This guide is intended for entry-level Excel users who have used Microsoft Excel
 
 By the end of this guide you will:
 *	Create a macro for organizing and sorting imported data
-*	
-*	
+*	Create a macro for splitting and combining text columns
+*	Create a macro for removing blanks and repetitive texts
 
 ## Software Versions
 
