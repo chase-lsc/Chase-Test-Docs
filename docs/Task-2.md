@@ -13,7 +13,7 @@ the number of the address, extension size of the block and divide one column in 
 
 
 
- ## Split address from one column into three columns
+ # Split address from one column into three columns
  
  1\. Press [CTROL+Home] -> [CTROL+A] to place curser at the A1 and select whole columns.
  
