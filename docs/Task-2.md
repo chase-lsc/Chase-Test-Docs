@@ -13,7 +13,7 @@ the number of the address, extension size of the block and divide one column in 
 
 
 
- ## Split address from one column into three
+ ## Split address from one column into three columns
  
  1\. Press [**CTROL+Home**] -> [**CTROL+A**] to place curser at the A1 and select whole columns.
  
@@ -47,15 +47,16 @@ the number of the address, extension size of the block and divide one column in 
  
  6\. Hold **shift+right arrow twice** to select all columns. Click **Home menu** to select to [Click Sort &Filter] ->[Custom sort].
  
- In the custom sort dialogue, click **Add level twice** then choose **Column B** for sort by section and **Column A** for Then by 
+ In the custom sort dialogue, click **Add level twice** then choose **Column B** for [**sort by**] and **Column A** 
  
- section then press OK.
+ for [**Then by**] -> [Press OK.
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
     
     
     
- 7\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width] 
+ 7\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width]
+ 
    -> [type 15] then press OK.   
  
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
