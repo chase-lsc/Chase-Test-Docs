@@ -12,7 +12,7 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 1\. Press **CTROL+HOME** then, **CTROL+A**, to place the corsor at A1.
 
-2\. Hold **Shift+RIght Arrow twice** then, Click **HOME menu** to select **Merge & center** to merge the block.
+2\. Hold **Shift+RIght Arrow twice** then, Click **HOME menu** to select **Merge & center** to merge the blocks.
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.2.png?raw=true)
 
@@ -25,7 +25,7 @@ Organizing, formatting, and sorting data in worksheet with Excel, the same patte
 
 ## Remove Blank Columns 
 
-The worksheet with a blank block is hard to be managed, organized, and calculated with data adequately. This macro will remove whole unnecessary blank blocks to cause making errores.
+The worksheet with a blank block is hard to be managed, organized, and calculated with data adequately. This macro will remove whole unnecessary blank blocks which cause making errores.
 
 
 1\. Press **CTROL+HOME**, then **CTROL+A** to place the cursor at A1.
@@ -54,5 +54,5 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 
 Completion Checklist
-This is the end of this section. Now, you are able to create the macro for what you commonly type in your worksheets.
-Also, you are able to manage the blank blocks not to cause the problems.
+This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets.
+Also, you are able to create the macro for managing the blank blocks not to cause the problems.
