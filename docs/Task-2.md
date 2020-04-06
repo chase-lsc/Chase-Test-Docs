@@ -15,13 +15,13 @@ the number of the address, extension size of the block and divide one column in 
 
  ## Split address from one column into three columns
  
- 1\. Press [**CTROL+Home**] -> [**CTROL+A**] to place curser at the A1 and select whole columns.
+ 1\. Press [CTROL+Home] -> [CTROL+A] to place curser at the A1 and select whole columns.
  
  ![2.1.1](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.1.png?raw=true)
  
  
  
- 2\. Click **DATA menu** to select **TEXT to Columns**
+ 2\. Click [DATA menu] to select **TEXT to Columns**
  
  ![2.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.2.png?raw=true)
  
@@ -39,7 +39,7 @@ the number of the address, extension size of the block and divide one column in 
  
  
  
- 5\. In the last diaglogue box, Change [**General**] -> [**Text**] -> [Press Finish].
+ 5\. In the last diaglogue box, Change [General] -> [**Text**] -> [Press Finish].
  
  ![2.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.5.png?raw=true)
  
@@ -49,13 +49,13 @@ the number of the address, extension size of the block and divide one column in 
  
  In the custom sort dialogue, click **Add level twice** then choose **Column B** for [**sort by**] and **Column A** 
  
- for [**Then by**] -> [Press OK.
+ for [**Then by**] -> [Press OK].
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
     
     
     
- 7\. Press **CTROL+HOME** then hold **shift+right arrow twice**. Click **Home menu** to select to [Format] -> [Column Width]
+ 7\. Press CTROL+HOME then hold **shift+right arrow twice**. Click **Home menu** to select [Format] -> [Column Width]
  
    -> [type 15] then press OK.   
  
@@ -63,9 +63,9 @@ the number of the address, extension size of the block and divide one column in 
  
  
  
- 8\. Press [**CTROL+HOME**] -> [**Home menu**] to select [Insert] -> [Insert Sheet] to add one more row.
+ 8\. Press [CTROL+HOME] -> [Home menu] to select [Insert] -> [Insert Sheet] to add one more row.
  
- Type **Toal address** then press **Tab** to move to **B1**. Type the **=COUNTA(** then press **Shift+Down arrow** to calculate the 
+ Type [**Toal address**] -> [**Tab**] to move to **B1**. Type [**=COUNTA(**] then press **Shift+Down arrow** to calculate the 
  
  number of the address.
  
@@ -87,7 +87,7 @@ the number of the address, extension size of the block and divide one column in 
  
  
  
- 1\.  Press [**CTROL+HOME**] -> [**CONTROL+A**] to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. 
+ 1\.  Press [CTROL+HOME] -> [CONTROL+A] to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. 
  
  In the dialogue box, choose [**DELIMITED**]-> [Press NEXT]. In the second dialogue box, choose [**space**] ->[Press Next]. In the last 
  
@@ -98,7 +98,7 @@ the number of the address, extension size of the block and divide one column in 
  
  
  
- 2\. Press [**CTROL+HOME**] -> [**CONTROL+A**]. Click **Home menu** to select [SORT &Filter] -> [column C]
+ 2\. Press [CTROL+HOME] -> [CONTROL+A]. Click [Home menu] to select [SORT &Filter] -> [column C]
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
  
@@ -108,7 +108,7 @@ the number of the address, extension size of the block and divide one column in 
  3\. Press **End** to move the bottom of the column, then press **Right arrow thrice+Down arrow once** and type **STOP**
  
  
- 4\. Press [**End**]->[**Up arrow**] to move to the **D1**, then type **=A1&" "&B1+Enter**
+ 4\. Press [End]->[Up arrow] to move to the **D1**, then type **=A1&" "&B1+Enter**
  
  
  ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
@@ -121,7 +121,7 @@ the number of the address, extension size of the block and divide one column in 
  
  
  
- 5\. Press **CTROL+C**, then press **End** ->[Down arrow]->[Up arrow]->[CTROL+V]->[CTROL+C]. Select **Home menu** to select [paste]
+ 5\. Press **CTROL+C**, then press [End] -> [Down arrow]-> [Up arrow] -> [CTROL+V] -> [CTROL+C]. Select [Home menu] -> [paste]
  
  ->[Paste Value]
  
@@ -130,10 +130,10 @@ the number of the address, extension size of the block and divide one column in 
  
  
  
- 6\. Press **CTROL+Home** then, [End]->[Down arrow]->[CTROL+V]
+ 6\. Press [CTROL+Home] -> [End] -> [Down arrow] -> [CTROL+V]
  
  
- 7\. Press **Right arrow three times** then, [End]->[Shift+Down arrow]->[Delete]->[Left arrow twice]-> [End]->
+ 7\. Press **Right arrow three times** then, [End] -> [Shift+Down arrow] -> [Delete] -> [Left arrow twice] -> [End] ->
  
  [Shift+Down arrow] ->[Delete]
  
