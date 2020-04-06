@@ -9,6 +9,8 @@ nav_order: 4
 Organizing, formatting, and sorting data in worksheet with Excel, the same pattern of sentences and format are used frequently. 
 This macro will add your company information with current your position and your name at the left top of the worksheet automatically.
 
+</br>
+
 ## Repetitive Text
 
 1\. Press [CTROL+HOME] -> [CTROL+A] to place the cursor at A1.
@@ -16,6 +18,8 @@ This macro will add your company information with current your position and your
 2\. Hold **Shift+RIght Arrow twice** then, Click [HOME menu] to select **Merge & center** to merge the blocks.
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.2.png?raw=true)
+
+</br>
 
 3\. Press [CTROL+HOME] then, type {Company:[company name]} ->[Tab]-> type {Job Title:[Your position]} -> [Tab] -> type {Name:[Your name]}.
 
