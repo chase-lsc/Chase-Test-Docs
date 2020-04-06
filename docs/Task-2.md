@@ -84,7 +84,6 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.2.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.2.png?raw=true)
  
- ![2.2.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.3.png?raw=true)
  
  
  
