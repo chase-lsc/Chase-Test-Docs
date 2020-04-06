@@ -36,7 +36,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.1.4](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.4.png?raw=true)
  
- 
+ </br>
  
  5\. In the last diaglogue box, Change [General] -> [**Text**] -> [Press Finish].
  
@@ -73,10 +73,11 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
 ## Adjust for two columns into one column
  
+ </br>
  
  What if you find that the half of the list have city name and rest of the list does not? This macro will create new individual columns and rejoin them in the original column.
  
- 
+ </br>
  
  1\.  Press [CTROL+HOME] -> [CONTROL+A] to place the cursor at A1. Click **DATA menu** to select **Text to Columns**. 
  In the dialogue box, choose [**DELIMITED**]-> [Press NEXT]. In the second dialogue box, choose [**space**] ->[Press Next]. In the last 
