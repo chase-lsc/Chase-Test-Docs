@@ -10,9 +10,11 @@ nav_order: 3
 
 Long lists are commonly found in one column, which has a lack of readability. This macro does take one second calculating the number of the address, extension size of the block and dividing one column into three columns to increase the visibility. 
 
-
+<br />
 
 ## Split address from one column into three columns
+ 
+ <br />
  
  1\. Press [CTROL+Home] -> [CTROL+A] to place the cursor at the A1 and select whole columns.
  
