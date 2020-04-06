@@ -42,7 +42,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.5.png?raw=true)
  
- 
+ </br>
  
  6\. Hold **shift+right arrow twice** to select all columns. Click [Home menu] -> [Click Sort &Filter] ->[Custom sort].
  In the custom sort dialogue, click **Add level twice** then choose **Column B** for [**sort by**] and **Column A** 
@@ -50,14 +50,14 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
     
-    
+  </br>
     
  7\. Press CTROL+HOME then hold **shift+right arrow twice**. Click [Home menu] to select [Format] -> [Column Width]
   -> [type 15] then press OK.   
  
  ![2.1.8](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.8.png?raw=true)
  
- 
+ </br>
  
  8\. Press [CTROL+HOME] -> [Home menu] to select [Insert] -> [Insert Sheet] to add one more row.
  Type [**Toal address**] -> [**Tab**] to move to **B1**. Type [**=COUNTA(**] then press **Shift+Down arrow** to calculate the 
@@ -67,7 +67,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
  
- 
+ </br>
  9\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
  
@@ -132,7 +132,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
  
-
+</br>
 ## Completion Checklist
 
 This is the end of this section. Now, you are able to split the one column to three individual columns.
