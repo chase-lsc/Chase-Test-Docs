@@ -20,11 +20,13 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  </br>
+ 
  2\. Click [DATA menu] to select **TEXT to Columns**
  
  ![2.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.2.png?raw=true)
  
  </br>
+ 
  3\. In the dialogue box, select the [**Delimited**] -> [Press NEXT].
  
  ![2.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.3.png?raw=true)
