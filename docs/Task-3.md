@@ -45,20 +45,20 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.1.png?raw=true)
 
-
+</br>
 
 2\. Click [Home menu] to select [**Find & Search**] -> [**go to special**].
 
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.2.png?raw=true)
 
-
+</br>
 
 3\. Click the **blanks** then press Ok.
 
 ![3.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.6.png?raw=true)
 
-
+</br>
 
 4\. Click [Home menu] -> [delect] ->  [delect cells] -> [shift cell left] then press Ok.
 
@@ -68,6 +68,7 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 5\. Press stop recording, save the worksheet. Open the macro file and test it.
 
+</br>
 
 ## Completion Checklist
 
