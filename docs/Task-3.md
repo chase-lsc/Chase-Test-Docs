@@ -7,7 +7,7 @@ nav_order: 4
 # Macro for Removing Blanks and Repetitive Texts
 
 Organizing, formatting, and sorting data in worksheet with Excel, the same pattern of sentences and format are used frequently. 
-This macro to add your company information with current your position and name at the left top of the worksheet automatically.
+This macro will add your company information with current your position and your name at the left top of the worksheet automatically.
 
 ## Repetitive Text
 
@@ -31,7 +31,7 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 |Icon|Explanation|
 |-----|:------|
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: If you are not able to select whole blocks with **CTROL+A**, please press the triangle part which is placed above the row number(1) and left side of the column A.|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: If you are not able to select whole blocks with **CTROL+A**, please press the triangle button which is placed above the row number(1) and left side of the column A.|
 
 1\. Press [CTROL+HOME] -> [CTROL+A] to place the cursor at A1.
 
@@ -46,7 +46,7 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 
 
-3\. Click the blanks then press Ok.
+3\. Click the **blanks** then press Ok.
 
 ![3.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.6.png?raw=true)
 
@@ -63,4 +63,4 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 ## Completion Checklist
 
-This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets. Also, you are able to create the macro for managing the unnecessary blocks, which cause the problems.
+This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets. Also, you are able to create the macro for deleting the unnecessary blocks, which cause the problems.
