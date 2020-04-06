@@ -71,11 +71,10 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  9\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
  
-## Adjust for two columns into one
+## Adjust for two columns into one column
  
  
- What if you find that the half of the list have city name and rest of the list does not? This macro will create new columns of each 
- list and rejoin them in the original column.
+ What if you find that the half of the list have city name and rest of the list does not? This macro will create new individual columns and rejoin them in the original column.
  
  
  
