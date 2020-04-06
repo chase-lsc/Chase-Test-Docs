@@ -102,7 +102,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  [End]->[Down arrow+Shift] ->[Delete]
  
- ![2.2.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.2.9.png?raw=true)
+ ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
  
  
  8\. Press stop recording, save the worksheet. Open the macro file and test it.
