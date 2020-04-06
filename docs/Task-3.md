@@ -21,18 +21,26 @@ This macro will add your company information with current your position and your
 
 ![3.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.1.3.png?raw=true)
 
+</br>
+
 4\. Press stop recording, save the worksheet. Open the macro file and test it.
 
+</br>
 
 ## Remove Blank Columns 
 
+</br>
+
 The worksheet with a blank block is hard to be managed, organized, and calculated with data adequately. This macro will remove whole unnecessary blank blocks, which cause making errors.
 
+</br>
 
 |Icon|Explanation|
 |-----|:------|
 |![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: If you are not able to select whole blocks with **CTROL+A**, please press the triangle button which is placed above the row number(1) and left side of the column A.|
-
+ 
+</br>
+ 
 1\. Press [CTROL+HOME] -> [CTROL+A] to place the cursor at A1.
 
 ![3.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/3.2.1.png?raw=true)
