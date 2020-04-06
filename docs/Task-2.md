@@ -107,7 +107,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  |Icon|Explanation|
 |-----|:------|
-|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range. If only one block is selected, reselect whole **D** column except **Stop** block|
+|![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range. If only one block is selected (D1), reselect whole **D** column except **Stop** block|
  
  
  
