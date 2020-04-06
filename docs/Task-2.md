@@ -25,7 +25,6 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.2](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.2.png?raw=true)
  
  </br>
- 
  3\. In the dialogue box, select the [**Delimited**] -> [Press NEXT].
  
  ![2.1.3](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.3.png?raw=true)
@@ -38,6 +37,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  </br>
+
  5\. In the last diaglogue box, Change [General] -> [**Text**] -> [Press Finish].
  
  ![2.1.5](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.5.png?raw=true)
@@ -50,7 +50,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
     
-  </br>
+ </br>
     
  7\. Press CTROL+HOME then hold **shift+right arrow twice**. Click [Home menu] to select [Format] -> [Column Width]
   -> [type 15] then press OK.   
@@ -68,6 +68,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  ![2.1.9](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.9.png?raw=true)
  
  </br>
+ 
  9\. Press stop recording, save the worksheet. Open the macro file and **test** it.
  
  
@@ -88,6 +89,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  
  
  </br>
+ 
  2\. Press [CTROL+HOME] -> [CONTROL+A]. Click [Home menu] to select [SORT &Filter] -> [column C]
  
  ![2.1.6](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/2.1.6.png?raw=true)
@@ -98,6 +100,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
  3\. Press **End** to move the bottom of the column, then press **Right arrow thrice+Down arrow once** and type **STOP**
  
  </br>
+ 
  4\. Press [End]->[Up arrow] to move to the **D1**, then type **=A1&" "&B1+Enter**
  
  
@@ -111,6 +114,7 @@ Long lists are commonly found in one column, which has a lack of readability. Th
 |![Caution Icon.](https://github.com/chase-lsc/Task-Automation-With-Excel-Macros/blob/gh-pages/images/caution.png?raw=true) |**Caution**: Check the dotted line range. If only one block is selected (D1), reselect whole **D** column except **Stop** block|
  
  </br>
+ 
  5\. Press **CTROL+C**, then press [End] -> [Down arrow]-> [Up arrow] -> [CTROL+V] -> [CTROL+C]. Select [Home menu] -> [paste]
  ->[Paste Value]
  
