@@ -63,4 +63,4 @@ The worksheet with a blank block is hard to be managed, organized, and calculate
 
 ## Completion Checklist
 
-This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets. Also, you are able to create the macro for managing the blank blocks not to cause the problems.
+This is the end of this section. Now, you are able to create the macro for what you commonly use in your worksheets. Also, you are able to create the macro for managing the unnecessary blocks, which cause the problems.
